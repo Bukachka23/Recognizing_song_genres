@@ -2,19 +2,6 @@
 
 This project demonstrates how to build a music genre classification system using Machine Learning, specifically the Support Vector Machine (SVM) algorithm. The goal is to classify music tracks into three genres: Jazz, Rock, and Classical, based on their audio features.
 
-- Table of Contents
-- Introduction
-- Prerequisites
-- Project Structure
-- Data Preparation
-- Feature Extraction
-- Model Training
-- Model Evaluation
-- Confusion Matrix
-- Usage
-- Contributing
-- License
-
 ## Introduction
 Music genre classification is a common problem in the field of audio analysis and machine learning. In this project, we use the MFCC (Mel-Frequency Cepstral Coefficients) feature extraction technique to convert audio tracks into a numerical format that can be used for classification. SVM is chosen as the classification algorithm due to its effectiveness in handling high-dimensional data.
 
